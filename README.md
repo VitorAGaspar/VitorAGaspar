@@ -1,7 +1,11 @@
-<h2>Olá! É um prazer tê-lo aqui 👋</h2>
+<h2 align="center">Olá! É um prazer tê-lo aqui 👋</h2>
 
 
-<p> Aqui deixo minhas epifanias que costumo ter durante noites sem sono.</p>
+<h4 align="center"> Aqui deixo minhas epifanias que costumo ter durante noites sem sono.</h4>
+
+
+- Vitor Augusto, 23.
+- Desenvolvedor Front-end.
 
 ### Tenho conhecimentos em: 
 
